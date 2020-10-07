@@ -1,15 +1,6 @@
 # Zoom Clone
+
 This is a full-stack video chat app built in the MERN stack made to resemble Zoom.
-
-- [Overview](#overview)
-- [MVP](#mvp)
-  - [Libraries and Dependencies](#libraries-and-dependencies)
-  - [Client (Front End)](#client-front-end)
-    - [Component Tree](#component-tree)
-    - [Component Hierarchy](#component-hierarchy)
-    - [Component Breakdown](#component-breakdown)
-
-<br>
 
 ## Overview
 
@@ -54,15 +45,3 @@ This is Video Chat Web App. It will allow users to create rooms, create invite l
 |   Buttons    |   functional    |   N   |   Y   | _These are the main navigation buttons to either create a new room or join one._      |
 | Invite Link | functional |   Y   |   Y   | _A model that will pop up and allow user to copy a link to send to a friend._                 |
 |    Settings Bar    | functional |   N   |   Y   | _In room settings, right now only two: Mute, and Turn off Camera._ |
-
-#### Time Estimates
-
-> Use this section to estimate the time necessary to build out each of the components you've described above.
-
-| Task                | Priority | Estimated Time | Time Invested | Actual Time |
-| ------------------- | :------: | :------------: | :-----------: | :---------: |
-| Add Contact Form    |    L     |     3 hrs      |     2 hrs     |    3 hrs    |
-| Create CRUD Actions |    H     |     3 hrs      |     1 hrs     |     TBD     |
-| TOTAL               |          |     6 hrs      |     3 hrs     |     TBD     |
-
-
