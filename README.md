@@ -6,7 +6,6 @@ This is a full-stack video chat app built in the MERN stack made to resemble Zoo
 
 This is Video Chat Web App. It will allow users to create rooms, create invite links, and chat using webRTC. It was built using the MERN stack.
 
-
 ## MVP
 
 * User Authentication
@@ -18,8 +17,6 @@ This is Video Chat Web App. It will allow users to create rooms, create invite l
 * Complete Deploy
 
 ### Libraries and Dependencies
-
-> Use this section to list all supporting libraries and dependencies, and their role in the project. Below is an example - this needs to be replaced!
 
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
