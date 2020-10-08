@@ -1,0 +1,37 @@
+.btn-div {
+ display: flex;
+ flex-direction: row;
+}
+
+.btn {
+  color: white;
+  font-size: 3vw;
+  height: 13vh; 
+  width: 8vw;
+  border: none;
+  margin: 20px 25px 0 25px;
+  border-radius: 35px;
+  outline: none;
+}
+
+.btn:hover {
+  box-shadow: 0 5px 10px 1px #000000;
+  cursor: pointer;
+}
+
+.each-btn-div {
+  transition: .1s ease-in-out;
+}
+.each-btn-div:hover {
+  transform: translate(0, -3px);
+}
+
+
+.newMeeting-btn {
+  background-color: #fa6d30;
+}
+
+.joinMeeting-btn {
+  background-color: #3b64f7;
+}
+
