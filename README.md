@@ -8,13 +8,14 @@ This is Video Chat Web App. It will allow users to create rooms, create invite l
 
 ## MVP
 
-* User Authentication
 * Video Confrencing Capability
   * Ability to Mute/Go off Camera
   * Button for pop-up with meeting invite link
 * Styled to look like Zoom
-* Atleast three tables created
 * Complete Deploy
+
+### PMVP
+* User Authentication
 
 ### Libraries and Dependencies
 
